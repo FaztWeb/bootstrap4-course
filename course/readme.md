@@ -1,4 +1,4 @@
-# Course
+# text
 - typography
 - text-aligment
 - floats-fixed-positions
@@ -6,3 +6,7 @@
 - padding-spacing
 - width-sizing
 - breakpoints
+
+# componentes
+- buttons-buttons-groups
+- navbar
