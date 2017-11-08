@@ -10,3 +10,5 @@
 # componentes
 - buttons-buttons-groups
 - navbar
+- list-groups-badges
+- forms-and-inputs
