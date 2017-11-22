@@ -12,3 +12,11 @@
 - navbar
 - list-groups-badges
 - forms-and-inputs
+- input-groups
+
+# Grid System
+
+# Javascript Widgets
+- carousel
+- accordion
+- tooltips
