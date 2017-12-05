@@ -13,6 +13,7 @@
 - list-groups-badges
 - forms-and-inputs
 - input-groups
+- alerts-progress-bars
 
 # Grid System
 
